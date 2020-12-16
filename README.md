@@ -1,17 +1,6 @@
-## My Project
+# AWS modernization with Epsagon
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+Welcome to the Cloud Automation with Quali workshop!
+In this workshop a simple approach to model and deploy complex applications in AWS,How to increase your developer’s productivity with self-service and DevOps ready integrations
+and how to control your cloud costs through automation.
+Have fun!
