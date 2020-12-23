@@ -40,6 +40,23 @@ enableEmoji = true
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "mine"
 
+[[menu.shortcuts]]
+name = "<i class='fas fa-trash-alt'></i> Cleanup"
+identifier = "cleanup"
+url = "cleanup.html"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "repo"
+url = "https://github.com/aws-samples/aws-modernization-with-quali"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-readme'></i> Resources"
+identifier = "resources"
+url = "resources.html"
+weight = 30
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
