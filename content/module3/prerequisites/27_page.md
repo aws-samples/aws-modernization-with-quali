@@ -6,7 +6,7 @@ draft: false
 ---
 In the next few steps, you will create an S3 role that will give Jenkins permission to upload the promotion manager application build to the artifact repository you created in module 1. The role value will be used as an input to the Jenkins Sandbox deployment. Once Jenkins is deployed, it will use this role as a parameter of the pipeline jobs that you will run (see __Deploy a Sandbox from Jenkins__ step in module 3).
 
-1\. Navigate to "Services: Cloud Formation" to Create Stack
+1\. Navigate to "Services > Cloud Formation" to Create Stack
 ![27_page](/images/module3/27_page.png)
 2\. Upload template file s3_bucket_access.template provided in the workshop Git repo (__jenkins__ directory)
 ![27_page](/images/module3/28_page.png)

@@ -11,6 +11,6 @@ Before the sandbox expires extend the default time from 2 hrs to 3hrs.
 
 ![12_page_1](/images/module2/12_page_1.png)
 
-By default, it will be automatically deprovisioned once the specified time has expired, or you can end the sandbox from the UI.
+By default, it will be automatically deprovisioned once the specified time has expired.
 
 ![12_page_2](/images/module2/12_page_2.png)
