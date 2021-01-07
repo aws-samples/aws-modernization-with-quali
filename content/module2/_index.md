@@ -8,4 +8,4 @@ chapter = true
 # Module 2
 
 ### You are a Gourmet Inc developer and need to test the latest version of your code.
-In this module, You are going to a deploy a sandbox from CloudShell Colony using the promotion manager blueprint using a self-service experience. CloudShell Colony will automatically install the application for you using the most cost effective infrastructure. You will be able to access your application UI directly and troubleshoot your setup. Finally, your deployment will be automatically terminated, so no need to worry about ghost VMs or infrastructure sprawl!  
+In this module, you are going to deploy a sandbox, based on the promotion manager blueprint, from CloudShell Colony using a self-service experience. CloudShell Colony will automatically install the application for you using the most cost effective infrastructure. You will be able to access your application UI directly and troubleshoot your setup. And when the sandbox's duration ends, your deployment will be automatically terminated, so no need to worry about ghost VMs or infrastructure sprawl!  
