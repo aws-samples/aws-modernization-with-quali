@@ -18,5 +18,5 @@ weight: 13
 5\. Review and click __Create bucket__.
 ![09_page](/images/module1/12_page.png)
 
-6\. Your new bucket is displayed in the __S3 buckets__ page.
+Your new bucket is now listed in the __S3 buckets__ page.
 ![09_page](/images/module1/13_page.png)
