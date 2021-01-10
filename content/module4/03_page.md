@@ -10,6 +10,7 @@ draft: false
 ![03_page](/images/module4/04_page_2.png)
 
 2\. Update input parameters
+
 * Locate following block of code (inputs) in the blueprint:
 ![03_page](/images/module4/05_page_1.png)
 * Append the following block of code to it:
