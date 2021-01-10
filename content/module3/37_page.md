@@ -9,7 +9,7 @@ Log in to the Jenkins server that you just deployed (use the default "admin" pas
  
 #### The default pipeline loaded with this Jenkins instance will automatically run the following steps:
 
-1. Retrieve the latest code of the promotion app from GitHub.
+1. Retrieve the latest code of the promotions-manager app from GitHub.
 2. Build the artifact package (latest build).
 3. Upload the artifact to the S3 repository.
 4. Deploy the promotion application to AWS in a Colony Sandbox.
