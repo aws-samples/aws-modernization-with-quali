@@ -10,11 +10,11 @@ draft: false
 
 ![46_page](/images/module1/46_page.png)
 
-Edit __promotions-manager-all-aws-loadtest.yaml__ (in the /blueprint directory in your Git repo) and uncomment the "#instances: 3" line under promotions-manager-ui:
+1\. Edit promotions-manager-all-aws-loadtest.yaml (in the /blueprint directory in your Git repo) and uncomment the "#instances: 3 for the UI tier​" line.
 
 ![46_page](/images/module1/48_page.png)
  
- Commit your changes
+2\. Commit your changes.
  
- ![46_page](/images/module1/49_page.png)
+![46_page](/images/module1/49_page.png)
 

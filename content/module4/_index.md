@@ -7,7 +7,7 @@ chapter = true
 
 # Module 4
 
-### Gourmet Inc wants to be more efficient with the use of cloud infrastructure. There is a new AWS service, DocumentDB that can save cost and improve your backend application resilience. 
+### Gourmet Inc wants to be more efficient with the use of cloud infrastructure. There is a new AWS service, DocumentDB, that can save cost and improve your backend application resilience. 
 
 You are the DevOps engineer and would like to use this service instead of MongoDB for your promotion application.
 

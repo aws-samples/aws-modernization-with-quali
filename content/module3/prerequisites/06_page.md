@@ -4,7 +4,7 @@ date: 2020-10-16T14:20:26+03:00
 weight: 2
 draft: false
 ---
-In the next few steps, you will create and configure a new "space" in Colony. A space is a way to enable a specific team to get access to the resources they need. It is part of the proper governance practices a company like Gourmet Inc wants to enforce. In our scenario, we are creating a space for the Platform Ops team to deploy and manage their tools like Jenkins.
+In the next few steps, you will create and configure a new "space" in Colony. A space is a way to provide a specific team access to the resources they need. It is part of the proper governance practices a company like Gourmet Inc wants to enforce. In our scenario, we are creating a space for the Platform Ops team to deploy and manage their tools like Jenkins.
 
 Create a new “Ops-Tools” space in Colony
  ![06_page](/images/module3/addspace.png)
