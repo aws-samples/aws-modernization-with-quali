@@ -10,7 +10,7 @@ In this step, you will edit a blueprint provided in your Git repository and modi
 aws-workshop-colony/blueprints/
 
 ![43_page](/images/module1/edit_bp_git.png)
-__Note__: this blueprint assumes you have permissions to deploy in the "eu-west-1" region with your AWS account; if not, update the value in the __clouds__ section accordingly.
+__Note__: This blueprint assumes you have permissions to deploy in the "eu-west-1" region with your AWS account; if not, update the value in the __clouds__ section accordingly.
 
 ![43_page](/images/module1/pm_bp_view.png)
 
