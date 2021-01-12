@@ -7,6 +7,6 @@ CloudShell Colony also allows you to troubleshoot any deployment issue related t
 
 In the following pages, you will:
 
-1\. Turn on Bastion to enable console access
-2\. Access VM host console
-3\. Check out the Colony logs
+1\. Turn on Bastion to enable console access.
+2\. Access VM host console.
+3\. Check out the Colony logs.
