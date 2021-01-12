@@ -10,7 +10,7 @@ Run the following command from the console:
 colony.sh logs
 ```
 
-This will provide the developer with a detailed log trail of all the steps that were performed by CloudShell Colony on that VM. In this case, you can see the different steps that were taken to deploy and configure MongoDB on that host.
+This will provide the developer with a detailed log trail of all the steps that were performed by CloudShell Colony on that VM. In our case, you can see the different steps that were taken to deploy and configure MongoDB on that host.
 
  ![11_page](/images/module2/11_page.png)
 
