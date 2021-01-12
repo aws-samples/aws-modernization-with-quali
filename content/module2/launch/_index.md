@@ -7,8 +7,6 @@ The process for an end user to launch a new sandbox from CloudShell Colony is qu
  
 1\. Select the blueprint from the catalog.
 
-2\. Fill in parameters and duration.
+2\. Fill in the parameters and duration.
 
-3\. Launch sandbox.
-
-Let's do it step by step.
+3\. Launch the sandbox.

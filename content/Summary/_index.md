@@ -11,7 +11,7 @@ chapter = true
 In Summary, you have learned:
 
 * How to model and deploy a complex applications in AWS, and quickly modify it to meet the needs of developers and testers.
-* How to increase your developer’s productivity with self-service and DevOps ready integrations such as Jenkins.
+* How to increase your developer’s productivity with self-service and DevOps-ready integrations such as Jenkins.
 * How to automatically deploy and configure your DevOps tools (PlatformOps) using CloudShell Colony.
 * How to consume AWS services using Terraform modules
 * How control cloud costs with automated deprovisioning.

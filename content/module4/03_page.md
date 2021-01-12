@@ -5,14 +5,14 @@ weight: 03
 draft: false
 ---
 
-1\. Remove mongodb artifact 
+1\. Remove the mongodb artifact. 
 ![03_page](/images/module4/04_page_1.png)
 ![03_page](/images/module4/04_page_2.png)
 
-2\. Update input parameters
-* Locate following block of code (inputs) in the blueprint:
+2\. Locate the inputs section:
 ![03_page](/images/module4/05_page_1.png)
-* Append the following block of code to it:
+
+3\. Add the following to the section:
 ```
 - DB_USERNAME: adminuser
 - DB_PASSWORD: 
@@ -21,7 +21,7 @@ draft: false
     default_value: Welcome1234567+
 ```
 
-3\. Locate the “promotion-manager-api” and “mongodb” sections of code in the blueprint. 
+3\. Locate the “promotion-manager-api” and “mongodb” sections. 
 ![03_page](/images/module4/06_page.png)
 
 4\. Replace this section with the following code:
@@ -46,7 +46,8 @@ services:
 debugging:
   availability: on
 ```
-Your new blueprint is now visible in Colony 
-![03_page](/images/module4/09_page.png)
 
-5\. Save and Commit your change to your Git repo
+5\. Save your changes, commit to your local repo and push to Github.
+
+Your new blueprint is now visible in Colony.
+![03_page](/images/module4/09_page.png)

@@ -5,11 +5,11 @@ weight: 12
 ---
 
 * The S3 repository will be used to store your promotion manager app application artifacts.
-* In the next few steps, you will create an AWS S3 bucket, upload the promotion manager artifacts and connect your repository to CloudShell Colony.
+* In the next few steps, you will create an AWS S3 bucket, upload the promotion manager artifacts, and connect your repository to CloudShell Colony.
 
 ---
 **NOTE**
 
-Other repositories are natively supported by Colony, such as Jfrog Artifactory
+Other repositories are natively supported by Colony, such as [JFrog Artifactory](https://jfrog.com/artifactory/).
 
 ---
