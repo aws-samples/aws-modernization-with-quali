@@ -3,10 +3,10 @@ title: "Create an S3 role using a Cloud Formation template"
 date: 2020-10-16T14:20:28+03:00
 weight: 27
 draft: false
----
+
 In the next steps, you will create an S3 role that will give Jenkins permission to upload the Promotion Manager application build to the artifact repository you created in module 1. The role value will be used as an input to the Jenkins Sandbox deployment. Once Jenkins is deployed, it will use this role as a parameter of the pipeline jobs that you will run (see __Deploy a Sandbox from Jenkins__ step in module 3).
 
-1\. Open the AWS in a browser and navigate to the [__CloudFormation__](https://console.aws.amazon.com/cloudformation/) service
+1\. Open AWS in a browser and navigate to the [__CloudFormation__](https://console.aws.amazon.com/cloudformation/) service
 
 2\. Click __Create stack__
 
@@ -18,7 +18,7 @@ In the next steps, you will create an S3 role that will give Jenkins permission 
 
 5\. Click __Choose file__
 
-6\. Upload __s3_bucket_access.template__ from the __jenkins__ directory of the workshop's repo you created in Module 1.
+6\. Upload __s3_bucket_access.template__ from the __/jenkins__ directory of the workshop's repo you created in Module 1.
 You may select the file from your local clone of the workshop's Git repo, or use the URL of that file in the original repo:
 https://raw.githubusercontent.com/QualiSystemsLab/aws-workshop-colony/master/jenkins/s3_bucket_access.template
 

@@ -4,8 +4,8 @@ date: 2020-10-16T11:27:43+03:00
 weight: 07
 draft: false
 ---
-Once your sandbox deployment is complete, you will see the website URL listed under "Quick Links"
+1\. Once your sandbox deployment is complete, you will see the website's URL listed under __Quick Links__.
 
  ![07_page](/images/module2/07_page.png)
  
- Click on the url under "Quick Links".
+2\. Click the URL under __Quick Links__.

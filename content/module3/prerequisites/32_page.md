@@ -5,7 +5,7 @@ weight: 32
 draft: false
 ---
 
-1\. In Colony, navigate to the **Sandbox Environments** page, make sure you are in the Ops-Tools space,  and then click **New Sandbox"**
+1\. In Colony, navigate to the **Sandbox Environments** page, make sure you are in the **Ops-Tools** space,  and then click **New Sandbox"**
 ![32_page](/images/module3/32_page_2.png)
 
 2\. Select the Jenkins blueprint and click **Next**
@@ -25,6 +25,7 @@ draft: false
 5\. Once the sandbox deployment is complete, click **Open Sandbox**
 
 6\. In the **Sandbox Environments** > **Summary** page, wait until the application is fully deployed, then click its **Quick Link**
+
 ![32_page](/images/module3/36_page.png)
 
 Congratulations! You've now automatically deployed an instance of Jenkins that can launch any blueprint configured in Colony! 
