@@ -5,15 +5,27 @@ weight: 32
 draft: false
 ---
 
-Navigate to the Sandbox Environment of the Ops-Tools space in Colony and click on "New Sandbox".
+1\. In Colony, navigate to the **Sandbox Environments** page, make sure you are in the Ops-Tools space,  and then click **New Sandbox"**
 ![32_page](/images/module3/32_page_2.png)
-Select Jenkins blueprint and click Next
+
+2\. Select the Jenkins blueprint and click **Next**
 ![32_page](/images/module3/33_page.png)
-Enter required parameters. Enter Trial as the Space Name. Other parameters (role and token) were generated in the previous steps.
+
+3\. Enter the required parameters:
+* Sandbox Name: Jenkins_CI
+* CS_COLONY_TOKEN: Use the Jenkins token created in a previous steps
+* SPACE_NAME: Trial
+* AIM_ROLE: Set the value of the IAMRoleInstanceProfile key provided earlier by AWS
+* BUCKET_NAME: Use the S3 bucket name you created
 ![32_page](/images/module3/34_page.png)
-Launch Sandbox
+
+4\. Click **Launch Sandbox**
 ![32_page](/images/module3/35_page.png)
-Once the sandbox deployment is complete, click on the web “quick link” to access the Jenkins instance. 
+
+5\. Once the sandbox deployment is complete, click **Open Sandbox**
+
+6\. In the **Sandbox Environments** > **Summary** page, wait until the application is fully deployed, then click its **Quick Link**
 ![32_page](/images/module3/36_page.png)
+
 Congratulations! You've now automatically deployed an instance of Jenkins that can launch any blueprint configured in Colony! 
 As the Ops team manager of Gourmet Inc, you may also use CloudShell Colony to manage the new releases of the Jenkins platform as they become available.
