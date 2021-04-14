@@ -3,7 +3,7 @@ title: "Create an Amazon S3 bucket"
 date: 2020-10-15T18:47:11+03:00
 weight: 13
 ---
-1\. Navigate to the S3 service area of your AWS account and click the __Create bucket__ button
+1\. Navigate to the S3 service area of your AWS account and click the __Create bucket__ button.
 ![09_page](/images/module1/create_bucket.png)
 
 2\. Provide a __Bucket name__ and select a __Region__.
