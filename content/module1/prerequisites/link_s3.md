@@ -8,8 +8,6 @@ weight: 12
 * In the next few steps, you will create an AWS S3 bucket, upload the promotion manager artifacts, and connect your repository to CloudShell Colony.
 
 ---
-**NOTE**
-
-Other repositories are natively supported by Colony, such as [JFrog Artifactory](https://jfrog.com/artifactory/).
+**NOTE:** Other repositories are natively supported by Colony, such as [JFrog Artifactory](https://jfrog.com/artifactory/).
 
 ---
