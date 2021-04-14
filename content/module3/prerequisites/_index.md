@@ -5,7 +5,10 @@ weight: 1
 ---
 ### As a member of the Ops platform tools team at Gourmet Inc, you will automatically deploy and configure Jenkins using CloudShell Colony.
 
-__Note__: This step would typically be performed ahead of time. CloudShell Colony can be used to deploy platform tools and keep them up-to-date with the latest version.
+---
+**NOTE:** This step would typically be performed ahead of time. CloudShell Colony can be used to deploy platform tools and keep them up-to-date with the latest version.\\
+
+---
 
 Your goal in the next few steps is to deploy a new Jenkins instance in AWS EC2 using CloudShell Colony. This instance will be pre-configured with a sample pipeline job that can be used to automatically deploy the promotion manager application.
 
