@@ -5,11 +5,11 @@ weight: 40
 draft: false
 ---
 
-Browse the blueprint catalog
+1.\ Browse the __Blueprints__ catalog.
 ![50_page](/images/module1/50_page.png)
 
-Check the Dev Environment Blueprint for the promotion app
+2.\ Check the dv environment blueprint for the promotion app.
 ![50_page](/images/module1/51_page.png)
 
-Check the Load test Environment Blueprint for the promotion app
+3.\ Check the Load test Environment Blueprint for the promotion app.
 ![50_page](/images/module1/52_page.png)
