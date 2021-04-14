@@ -11,7 +11,7 @@ weight: 7
 
 ![07_page](/images/module1/add_bp_repo.png)
 
-3\. Select GitHub and specify your account repository (created in previous step).
+3\. Select **GitHub** and specify your account repository (created in previous step).
 
 ![07_page](/images/module1/select_gh.png)
 
