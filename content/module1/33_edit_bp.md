@@ -4,7 +4,7 @@ date: 2020-10-15T18:47:14+03:00
 weight: 33
 draft: false
 ---
-In this step, you will edit a blueprint provided in your Git repository and modify it to meet the needs of your developers. Instead of three VMs, the promotion manager application components willa all be deployed on one VM.
+In this step, you will edit a blueprint provided in your Git repository and modify it to meet the needs of your developers. Instead of three VMs, the promotion manager application components will all be deployed on one VM.
 
 1\. Edit __promotion-manager-all-aws-dev.yaml__. You can find this file in the Git directory of your repo:
 aws-workshop-colony/blueprints/
