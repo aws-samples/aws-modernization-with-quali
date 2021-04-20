@@ -6,7 +6,7 @@ weight: 13
 1\. Navigate to the S3 service area of your AWS account and click the __Create bucket__ button.
 ![09_page](/images/module1/create_bucket.png)
 
-2\. Provide a __Bucket name__ and select a __Region__.
+2\. Provide a unique __Bucket name__ and select a __Region__.
 ![09_page](/images/module1/09_page.png)
 
 3\. Make sure the __Block all public access__ checkbox is selected.
