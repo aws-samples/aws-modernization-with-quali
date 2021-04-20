@@ -9,10 +9,10 @@ weight: 13
 2\. Provide a __Bucket name__ and select a __Region__.
 ![09_page](/images/module1/09_page.png)
 
-3.\ Make sure the __Block all public access__ checkbox is selected.
+3\. Make sure the __Block all public access__ checkbox is selected.
 ![09_page](/images/module1/11_page.png)
 
-4.\ In the __Bucket Versioning__ section, select __Enable__.
+4\. In the __Bucket Versioning__ section, select __Enable__.
 ![09_page](/images/module1/10_page.png)
 
 5\. Review and click __Create bucket__ at the bottom of the page.
