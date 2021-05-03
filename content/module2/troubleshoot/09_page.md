@@ -9,6 +9,6 @@ A bastion host is used to remotely access your infrastructure in your private VP
 
 1\. Switch to the __Troubleshooting__ tab.
 
-2\. Click the __Turn on Bastion__ button.
+2\. Turn on __Bastion Activation__.
 
  ![09_page](/images/module2/09_page.png)
