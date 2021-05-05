@@ -6,5 +6,5 @@ draft: false
 ---
 Your newly deployed Jenkins server is already preconfigured with a job to run the promotion manager application. 
 
-Click on __Build Now__ to run the Jenkins Job. 
+Click __Build Now__ to run the Jenkins Job. 
  ![44_page](/images/module3/44_page.png)
