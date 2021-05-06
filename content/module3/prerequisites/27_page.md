@@ -4,7 +4,7 @@ date: 2020-10-16T14:20:28+03:00
 weight: 27
 draft: false
 
-In the next steps, you will create an S3 role that will give Jenkins permission to upload the Promotion Manager application build to the artifact repository you created in module 1. The role value will be used as an input to the Jenkins Sandbox deployment. Once Jenkins is deployed, it will use this role as a parameter of the pipeline jobs that you will run (see __Deploy a Sandbox from Jenkins__ step in module 3).
+In the next steps, you will create an S3 role that will give Jenkins permission to upload the Promotion Manager application build to the artifact repository you created in module 1. The role value will be used as an input to the Jenkins Sandbox deployment. Once Jenkins is deployed, it will use this role as a parameter of the pipeline jobs that you will run (see [Deploy a Sandbox from Jenkins](https://quali.awsworkshop.io/module3/37_page.html).
 
 1\. Open AWS in a browser and navigate to the [__CloudFormation__](https://console.aws.amazon.com/cloudformation/) service
 
