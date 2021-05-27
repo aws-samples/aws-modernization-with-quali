@@ -9,6 +9,6 @@ weight: 28
 
 ![dev_env](/images/module1/dev_env.png)
 
-You can verify in Colony that the current promotion-manager-all-aws​ blueprint is configured to be deployed on three VMs.
+In the __Sandbox Environments__ page, you can verify in Colony that the current promotion-manager-all-aws​ blueprint is configured to be deployed on three VMs.
 ![38_page](/images/module1/38_page.png)
 ![39_page](/images/module1/39_page.png)

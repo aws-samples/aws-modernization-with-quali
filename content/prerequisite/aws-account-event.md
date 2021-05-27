@@ -23,5 +23,3 @@ For an AWS hosted event, you are provided with an AWS account through the AWS Ev
 ![02_page](/images/prerequisite/region.png)
 
 You can leave the AWS console opened. 
-
-
