@@ -3,6 +3,7 @@ title: "Create an S3 role using a Cloud Formation template"
 date: 2020-10-16T14:20:28+03:00
 weight: 27
 draft: false
+---
 
 In the next steps, you will create an S3 role that will give Jenkins permission to upload the Promotion Manager application build to the artifact repository you created in module 1. The role value will be used as an input to the Jenkins Sandbox deployment. Once Jenkins is deployed, it will use this role as a parameter of the pipeline jobs that you will run (see __Deploy a Sandbox from Jenkins__ step in module 3).
 
