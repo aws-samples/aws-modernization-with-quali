@@ -1,5 +1,5 @@
 ---
-title: "Check your changes​ in CloudShell Colony"
+title: "Check your changes​ in Torque"
 date: 2020-10-15T18:47:14+03:00
 weight: 40
 draft: false

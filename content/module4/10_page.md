@@ -1,5 +1,5 @@
 ---
-title: "Check the new infrastructure service of your application blueprint in Colony"
+title: "Check the new infrastructure service of your application blueprint in Torque"
 date: 2020-10-21T11:44:34+03:00
 weight: 10
 draft: false

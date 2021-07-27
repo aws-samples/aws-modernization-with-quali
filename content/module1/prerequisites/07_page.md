@@ -1,5 +1,5 @@
 ---
-title: "Link your blueprint repository to Colony"
+title: "Link your blueprint repository to Torque"
 date: 2020-10-15T18:47:11+03:00
 weight: 7
 ---
@@ -20,5 +20,7 @@ weight: 7
 ![07_page](/images/module1/click_connect.png)
 
 5\. You can browse the promotion app blueprints from the catalog.
+
+Don't worry about the red error marks, we'll fix them in the next stages.
 
 ![07_page](/images/module1/catalog.png)

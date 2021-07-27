@@ -7,7 +7,7 @@ draft: false
 In this step, you will edit a blueprint provided in your Git repository and modify it to meet the needs of your developers. Instead of three VMs, the promotion manager application components will all be deployed on one VM.
 
 1\. Edit __promotion-manager-all-aws-dev.yaml__. You can find this file in the Git directory of your repo:
-aws-workshop-colony/blueprints/
+aws-workshop-torque/blueprints/
 
 ![43_page](/images/module1/edit_bp_git.png)
 ---
@@ -23,4 +23,4 @@ aws-workshop-colony/blueprints/
 3\. Commit your changes (Git)
 ![45_page](/images/module1/45_page.png)
 
-Moving forward, your blueprint will now automatically be synchronized to CloudShell Colony and available for deployment.
+Moving forward, your blueprint will now automatically be synchronized to Torque and available for deployment.

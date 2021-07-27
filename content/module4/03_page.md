@@ -49,5 +49,5 @@ debugging:
 
 5\. Save your changes, commit to your local repo and push to Github.
 
-Your new blueprint is now visible in Colony.
+Your new blueprint is now visible in Torque.
 ![03_page](/images/module4/09_page.png)

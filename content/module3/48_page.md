@@ -5,5 +5,5 @@ weight: 48
 draft: false
 ---
 
-#### CloudShell Colony offers many other plugins with CI tools, check the [Colony integration](https://www.quali.com/colony-integrations/) website for more details
+#### Torque offers many other plugins with CI tools, check the [Torque integration](https://quali.com/torque-integrations/) website for more details
 ![48_page](/images/module3/48_page.png)

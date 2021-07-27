@@ -9,12 +9,12 @@ chapter = true
 
 ![80_page](/images/intro/aws_logo.png)
 
-2\. Create your [Colony Account](https://app.cloudshellcolony.com/sign_up)
+2\. Create your [Torque Free Trial Account](https://app.qtorque.io/sign_up)
 
-![80_page](/images/intro/colony_logo.png)
+![80_page](/images/intro/torque_logo.png)
 
-3\. Link your AWS cloud account to CloudShell Colony.
+3\. Link your AWS cloud account to Torque.
 
 ![80_page](/images/intro/aws_logo.png)
 
-4\. Deploy your first sandbox
+4\. Deploy your first sandbox.

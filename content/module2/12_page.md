@@ -5,7 +5,7 @@ weight: 12
 draft: false
 ---
 
-You've realized that you need more time to work on your promotion manager application functionality testing and your sandbox is about to expire! Thankfully with CloudShell Colony, this will not be a problem. You can easily extend the duration for another hour if your user policy allows you. 
+You've realized that you need more time to work on your promotion manager application functionality testing and your sandbox is about to expire! Thankfully with Torque, this will not be a problem. You can easily extend the duration for another hour if your user policy allows you. 
  
 Before the sandbox expires, extend the default time from 2 hrs to 3 hrs.
 

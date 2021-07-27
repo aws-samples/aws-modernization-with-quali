@@ -5,4 +5,5 @@ weight: 45
 draft: false
 ---
 
+When the build completes, click the __Last build__ permalink.
  ![45_page](/images/module3/45_page.png)
