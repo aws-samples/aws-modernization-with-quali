@@ -1,12 +1,12 @@
 ---
-title: "Check how the Jenkins pipeline script calls the CloudShell Colony API"
+title: "Check how the Jenkins pipeline script calls the Torque API"
 date: 2020-10-16T14:20:29+03:00
 weight: 40
 draft: false
 ---
-Let's check how Jenkins is configured to call the Colony API. The Jenkins Sandbox you deployed earlier preloaded the Colony plugin that provides pre-defined functions (Groovy code) that you can call when defining a new script. 
+Let's check how Jenkins is configured to call the Torque API. The Jenkins Sandbox you deployed earlier preloaded the Torque plugin that provides pre-defined functions (Groovy code) that you can call when defining a new script. 
 
-__Note__: If you have an existing Jenkins instance, you would install and configure the Jenkins plugin for Colony from the Colony __Integrations__ page and follow these [instructions](https://colonysupport.quali.com/hc/en-us/articles/360001035668).
+__Note__: If you have an existing Jenkins instance, you would install and configure the Jenkins plugin for Torque from the Torque __Integrations__ page and follow these [instructions](https://colonysupport.quali.com/hc/en-us/articles/360001035668).
  
 1\. Click the "demo" link to the pre-loaded pipeline script.
  ![40_page](/images/module3/demo-jenkins.png)

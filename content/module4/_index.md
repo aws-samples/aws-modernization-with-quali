@@ -11,7 +11,7 @@ chapter = true
 
 You are the DevOps engineer and would like to use this service instead of MongoDB for your promotion application.
 
-CloudShell Colony supports Terraform modules natively. That allows you to rapidely take advantage of the latest AWS cloud services that are released on a regular basis.
+Torque supports Terraform modules natively. That allows you to rapidely take advantage of the latest AWS cloud services that are released on a regular basis.
 
 * You will make a simple change to your blueprint to include a predefined Terraform module located in the terraform folder of your blueprint repository
 ![01_page](/images/module4/git_tfmodule.png)

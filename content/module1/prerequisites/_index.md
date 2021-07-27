@@ -5,6 +5,6 @@ weight: 3
 ---
 
 * Clone promotion application public repository to your GitHub repo
-* Link your blueprint repo to Colony
+* Link your blueprint repo to Torque
 * Create an S3 bucket and upload the promotion application artifacts
-* Link your artifact repo to Colony
+* Link your artifact repo to Torque

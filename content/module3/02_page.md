@@ -1,5 +1,5 @@
 ---
-title: "Browse the Colony REST API"
+title: "Browse the Torque REST API"
 date: 2020-10-16T14:20:25+03:00
 weight: 02
 draft: false

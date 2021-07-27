@@ -5,7 +5,7 @@ weight: 10
 draft: false
 ---
 
-You will use the following public repository: https://github.com/QualiSystemsLab/jenkins-colony
+You will use the following public repository: https://github.com/QualiSystemsLab/jenkins-torque
  ![10_page](/images/module3/10_page.png)
  ![10_page](/images/module3/11_page.png)
  

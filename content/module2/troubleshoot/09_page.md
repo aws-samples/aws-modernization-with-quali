@@ -5,7 +5,7 @@ weight: 09
 draft: false
 ---
 
-A bastion host is used to remotely access your infrastructure in your private VPC environment, directly from CloudShell Colony.
+A bastion host is used to remotely access your infrastructure in your private VPC environment, directly from Torque.
 
 1\. Switch to the __Troubleshooting__ tab.
 
