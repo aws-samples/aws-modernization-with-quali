@@ -9,7 +9,7 @@ chapter = true
 
 ![80_page](/images/intro/aws_logo.png)
 
-2\. Create your [Torque Free Trial Account](https://app.qtorque.io/sign_up)
+2\. Create your [Torque Free Trial Account](https://aws.amazon.com/marketplace/pp/prodview-4bjqsnzlhtohy)
 
 ![80_page](/images/intro/torque_logo.png)
 
