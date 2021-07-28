@@ -1,7 +1,8 @@
 ---
 title: "Cleanup"
-chapter: false
-weight: 0
+chapter: true
+draft: false
+weight: 90
 ---
 
 - **Your Torque trial instance** - The Torque trial instance that you used in this workshop will automatically be terminated after 30 days. There isn't anything you need to do. If you would like keep it, you can upgrade to a paying plan. [Contact us](https://info.quali.com/contact-us) for more details.
