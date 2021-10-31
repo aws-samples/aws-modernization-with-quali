@@ -1,5 +1,5 @@
 ---
-title: "Promotion manager architecture"
+title: "Promotion manager architectur"
 date: 2020-10-15T18:47:10+03:00
 weight: 3
 draft: true
