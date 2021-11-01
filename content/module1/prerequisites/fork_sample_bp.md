@@ -12,7 +12,7 @@ Torque leverages GitHub or BitBucket as version control for blueprint. In this w
 
 ---
 
-1\. Navigate to the [Promotion manager repo](https://github.com/QualiSystemsLab/aws-workshop-torque).
+1\. Navigate to the [Promotion manager repo](https://github.com/QualiTorque/aws-workshop-torque).
 
 ![fork_bp](/images/module1/fork_bp.png)
 
