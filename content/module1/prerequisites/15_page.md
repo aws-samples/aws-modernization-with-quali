@@ -3,7 +3,7 @@ title: "Upload the application artifacts to S3"
 date: 2020-10-15T18:47:11+03:00
 weight: 15
 ---
-1\. Download the source artifacts from https://github.com/Anastasia-Kharicheva/aws-workshop-torque/tree/master/artifacts.  
+1\. Download the source artifacts from https://github.com/QualiTorque/aws-workshop-torque/tree/master/artifacts.  
 If you use Safari as a browser you may have problems downloading the file in tar.gz format, in this case try download the same file with Google Chrome or any other browser.
 
 2\. Create the folder structure in your AWS S3 bucket.
