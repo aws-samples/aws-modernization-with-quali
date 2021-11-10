@@ -20,4 +20,4 @@ __Note__: If you have an existing Jenkins instance, you would install and config
  ![40_page](/images/module3/pipeline-script-endpoint.png)
 6\. At the end you, terminate the sandbox with the __endSandbox()__ method, and move on to the next stage.
  ![40_page](/images/module3/pipeline-script-terminate.png)
- For more information, you can check out the [detailed syntax](https://colonysupport.quali.com/hc/en-us/articles/360001029427) of these functions in our documentation.
+ For more information, you can check out the [detailed syntax](https://community.qtorque.io/jenkins-67/launching-a-sandbox-from-jenkins-pipeline-277) of these functions in our documentation.
