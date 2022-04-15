@@ -7,7 +7,8 @@ chapter = true
 
 # Summary
 
-![17_page](/images/summary/Congratulations.png)
+## Congratulations for completing the Quali Torque Workshop!
+
 In Summary, you have learned:
 
 * How to model and deploy a complex applications in AWS, and quickly modify it to meet the needs of developers and testers.
