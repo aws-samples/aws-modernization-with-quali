@@ -5,12 +5,12 @@ weight: 12
 draft: false
 ---
 
-You've realized that you need more time to work on your promotion manager application functionality testing and your sandbox is about to expire! Thankfully with Torque, this will not be a problem. You can easily extend the duration for another hour if your user policy allows you. 
+You've realized that you need more time to work on your Promotion Manager application's functionality testing, and your sandbox is about to expire! Thankfully with Torque, this will not be a problem. You can easily extend the duration for another hour if your user policy allows you. 
  
-Before the sandbox expires, extend the default time from 2 hrs to 3 hrs.
+Before the sandbox expires, extend the sandbox time by 3 hours.
 
-![12_page_1](/images/module2/12_page_1.png)
+![12_page_1](/images/module2/extend_sandbox.png)
 
-By default, it will be automatically deprovisioned once the specified time has expired.
+By default, it will be automatically deprovisioned once the specified time has expired, but if you're done and don't need the environment anymore, you can easily end it sooner.
 
-![12_page_2](/images/module2/12_page_2.png)
+![12_page_2](/images/module2/end_sandbox.png)
