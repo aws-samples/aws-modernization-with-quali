@@ -1,5 +1,5 @@
 ---
-title: "Troubleshooting your environment"
+title: "Troubleshooting environments"
 date: 2020-10-15T18:11:59+03:00
 weight: 9
 ---

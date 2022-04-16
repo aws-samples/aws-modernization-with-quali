@@ -11,7 +11,8 @@ aws-workshop-torque/blueprints/
 
 ![43_page](/images/module1/edit_bp_git.png)
 ---
-**NOTE**: This blueprint assumes you have permissions to deploy in the "eu-west-1" region with your AWS account; if not, update the value in the __clouds__ section accordingly.
+**NOTE**: This blueprint assumes you have permissions to deploy your VMs in the "eu-west-1" region with your AWS account; if not, update the value in the __clouds__ section accordingly.
+Also, it will use the "aws-workshop" cloud account we created in the previous steps. If you called it differently, you'll need to update this name as well.
 
 ---
 
@@ -20,7 +21,6 @@ aws-workshop-torque/blueprints/
 2\. For each application tier, uncomment "#target: vm1​":
 ![44_page](/images/module1/44_page.png)
 
-3\. Commit your changes (Git)
-![45_page](/images/module1/45_page.png)
+3\. Commit your changes and push to your repository
 
-Moving forward, your blueprint will now automatically be synchronized to Torque and available for deployment.
+Torque will get the latest updates automatically whenever you update your blueprint repository.
