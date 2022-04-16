@@ -7,14 +7,14 @@ chapter = true
 
 1\. Create an AWS account
 
-![80_page](/images/intro/aws_logo.png)
+![aws](/images/intro/aws_logo.png)
 
-2\. Create your [Torque Free Trial Account](https://app.qtorque.io/sign_up)
+2\. Create your [Torque Free Account](https://app.qtorque.io/join?utm_source=bd-joint-marketing&utm_medium=referral&utm_campaign=aws-workshop)
 
-![80_page](/images/intro/torque_logo.png)
+![Torque](/images/intro/torque_logo.png)
 
 3\. Link your AWS cloud account to Torque.
 
-![80_page](/images/intro/aws_logo.png)
+![aws](/images/intro/aws_logo.png)
 
 4\. Deploy your first sandbox.

@@ -1,11 +1,11 @@
 ---
-title: "Troubleshoot instances: Turn on Bastion"
+title: "Troubleshoot instances"
 date: 2020-10-16T11:27:43+03:00
 weight: 09
 draft: false
 ---
 
-A bastion host is used to remotely access your infrastructure in your private VPC environment, directly from Torque.
+To help with troubleshooting instances, you can turn on the Bastion. A bastion host is used to remotely access your infrastructure in your private VPC environment, directly from Torque.
 
 1\. Switch to the __Troubleshooting__ tab.
 
