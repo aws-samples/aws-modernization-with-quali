@@ -5,5 +5,5 @@ weight: 48
 draft: false
 ---
 
-#### Torque offers many other integrations, for CI tools and others, check the [Torque integration](https://quali.com/torque-integrations/) page for more details
+#### Torque offers many other integrations, for CI tools and others, check the [Torque integrations](https://quali.com/torque-integrations/) page for more details
 ![48_page](/images/module3/48_page.png)
