@@ -7,7 +7,7 @@ chapter = true
 
 # Summary
 
-## Congratulations for completing the Quali Torque Workshop!
+![summary](/images/summary/Congratulations.png)
 
 In Summary, you have learned:
 
