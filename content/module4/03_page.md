@@ -32,7 +32,7 @@ draft: false
       input_values:
         - API_PORT: $API_PORT
         - AWS_INSTANCE_TYPE: $AWS_INSTANCE_TYPE
-        - DATABASE_HOST: $outputs.promotions-manager-docdb.connection_string
+        - DATABASE_HOST: $torque.services.promotions-manager-docdb.outputs.connection_string
         - RELEASE_NUMBER: $RELEASE_NUMBER
         - API_BUILD_NUMBER: $API_BUILD_NUMBER
   
@@ -41,10 +41,10 @@ services:
       input_values:
         - USERNAME: $DB_USERNAME
         - PASSWORD: $DB_PASSWORD
-        - SANDBOX_ID: ${SandboxID}
+        - SANDBOX_ID: $torque.environment.id
 
 debugging:
-  availability: on
+  bastion_availability: enabled-on
 ```
 
 5\. Save your changes, commit to your local repo and push to Github.
